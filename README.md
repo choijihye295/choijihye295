@@ -7,7 +7,6 @@
 🎓 **Edu**
 
 - Jeonbuk National Univ, Computer Engineering (2022.03 ~ 2026.08)
-- KB IT's Your Life Bootcamp \_ Multicampus (2026.03 ~ )
 
 ---
 
