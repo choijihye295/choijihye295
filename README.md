@@ -25,7 +25,7 @@
 
 | PERIOD            | TITLE                        | SUBJECT                                                                   | LINK                                                                                                  |
 | ----------------- | ---------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 2026.01 - 2026.05 | Job Finder (Open Source)     | 맞춤형 채용공고 자동 발송 파이프라인 (n8n) + 수시채용 웹 서비스 (Node.js) + 수시채용 앱인토스 미니앱 (React, TS) | [n8n](https://github.com/ai-crews/job-finder-n8n) · [web](https://github.com/ai-crews/job-finder-web) · [app](https://github.com/ai-crews/job-finder-app)|
+| 2026.01 - 2026.05 | Job Finder (Open Source)     | 맞춤형 채용공고 자동 발송 파이프라인 (n8n) + 수시채용 웹 서비스 (Node.js) + 수시채용 앱인토스 미니앱 - 잡파인더 (React, TS) | [n8n](https://github.com/ai-crews/job-finder-n8n) · [web](https://github.com/ai-crews/job-finder-web) · [app](https://github.com/ai-crews/job-finder-app)|
 | 2024.09 - 2024.12 | 스마트 온실 AI 예측 & 시각화 | 200만건+ 시계열 데이터 전처리, 온도 RMSE 18.54%↓, Streamlit 대시보드      | [GitHub](https://github.com/choijihye295/streamlit_capstone)                                          |
 | 2023.09 - 2023.12 | StarWords 실시간 번역 앱     | Android 웹툰 스크롤 실시간 번역, WindowManager 오버레이 구현              | [GitHub](https://github.com/choijihye295/StarWords-Realtime-Translator)                               |
 | 2025.05 - 2025.06 | 강의 추천 서비스             | 강의계획서 기반 RAG 전공 추천, VectorDB 최적화                            | [GitHub](https://github.com/choijihye295/recommend_lecture)                                           |
