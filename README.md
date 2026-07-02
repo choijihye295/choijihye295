@@ -25,6 +25,7 @@
 
 | PERIOD            | TITLE                        | SUBJECT                                                                   | LINK                                                                                                  |
 | ----------------- | ---------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2026.05 - 2026.06 | JB LifeMap | 시니어 맞춤형 AI 재무 분석 및 가족 안전망 (LangGraph 멀티 에이전트, 암호화 PDF Email 발송) | [GitHub(Private)](https://github.com/choijihye295/JBLifeMap) |
 | 2026.01 - 2026.05 | Job Finder (Open Source)     | 맞춤형 채용공고 자동 발송 파이프라인 (n8n) + 수시채용 웹 서비스 (Node.js) + 수시채용 앱인토스 미니앱 - 잡파인더 (React, TS) | [n8n](https://github.com/ai-crews/job-finder-n8n) · [web](https://github.com/ai-crews/job-finder-web) · [app](https://github.com/ai-crews/job-finder-app)|
 | 2024.09 - 2024.12 | 스마트 온실 AI 예측 & 시각화 | 200만건+ 시계열 데이터 전처리, 온도 RMSE 18.54%↓, Streamlit 대시보드      | [GitHub](https://github.com/choijihye295/streamlit_capstone)                                          |
 | 2023.09 - 2023.12 | StarWords 실시간 번역 앱     | Android 웹툰 스크롤 실시간 번역, WindowManager 오버레이 구현              | [GitHub](https://github.com/choijihye295/StarWords-Realtime-Translator)                               |
